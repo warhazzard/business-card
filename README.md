@@ -1,5 +1,5 @@
 # About
-This is my one of the first web development project—a simple and interactive digital business card created while learning through Scrimba. I'll be updating it as I continue to improve my skills. 
+This is one of my first web development projects—a simple and interactive digital business card created while learning through Scrimba. I'll be updating it as I continue to improve my skills. 
 
 # Getting Started
 Install the dependencies and run the project
